@@ -1,6 +1,6 @@
 {
 	"landing": {
-		"firstName": "Tristan Miguel",
+		"firstName": "Tristan ",
 		"lastName": "Evangelista",
 		"phoneNumber": "to be added",
 		"bio": "Computer Science graduate from Ateneo de Manila University",
@@ -13,8 +13,8 @@
 			"position": "Systems Architecture Intern",
 			"organization": "Azeus Systems Philippines Limited",
 			"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-			"fromDate": "August 2018",
-			"toDate": "Present"
+			"fromDate": "June 2018",
+			"toDate": "August 2018"
 		}
 	],
 	"education": [{
@@ -43,7 +43,7 @@
 	"interests": {
 		"paragraphOne": " I enjoy video games, tennis, and scuba diving."
 	},
-	"competitions": [{
+	"awards": [{
 			"awardDetail": "2021 P&G Next: Advancing Business through I.T. Participant "
 		},
 		{
