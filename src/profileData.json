@@ -1,49 +1,34 @@
 {
 	"landing": {
-		"firstName": "Anupam",
-		"lastName": "Dagar",
-		"phoneNumber": "+91-0123456789",
-		"bio": "I am an opensource contributor and have contributed to Zulip, Hasura, Fossasia, Publiclab and many other projects. My tech stack includes Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. I have also worked with GraphQL. I am a GitHub Campus Expert at my insititute where I am responsible for building on campus community. I am the lead organiser of Hack In The North Hackathon and the cofounder of Pragma Conference held at IIIT Allahabad.",
-    "email": "dagaranupam@gmail.com",
-    "linkedin": "https://linkedin.com/in/anupamdagar",
-		"github": "https://github.com/Anupam-dagar"
+		"firstName": "Tristan Miguel",
+		"lastName": "Evangelista",
+		"phoneNumber": "to be added",
+		"bio": "Computer Science graduate from Ateneo de Manila University",
+    "email": "tristanm.evangelista@gmail.com",
+    "linkedin": "https://linkedin.com/in/tristan-evangelista",
+		"github": "https://github.com/TristanEvangelista"
 	},
 	"experience": [
 		{
-				"position": "GitHub Campus Expert",
-				"organization": "GitHub",
-				"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
-				"fromDate": "August 2018",
-				"toDate": "Present"
-		},
-		{
-			"position": "Opensource Developer Intern",
-			"organization": "Fossasia",
-			"aboutWork": "Contributing to Fossasia's open event server and frontend as an intern. Resolved numerous bugs and added new features to the eventyay platform.",
-			"fromDate": "June 2019",
+			"position": "Systems Architecture Intern",
+			"organization": "Azeus Systems Philippines Limited",
+			"aboutWork": "Responsible for building the on campus community with the support of GitHub.",
+			"fromDate": "August 2018",
 			"toDate": "Present"
-		},
-		{
-			"position": "Software Developer Intern",
-			"organization": "Hasura",
-			"aboutWork": "Worked on Hasura's GraphQL engine and added new features in it.",
-			"fromDate": "December 2018",
-			"toDate": "January 2019"
 		}
 	],
 	"education": [{
-			"university": "Indian Institute of Information Technology Allahabad",
-			"degree": "Bachelor of Technology",
-			"gpa": "12.34",
-			"fromDate": "August 2016",
-			"toDate": "Present"
+			"university": "Ateneo de Manila University",
+			"degree": "Bachelor of Science in Computer Science",
+			"fromDate": "2016",
+			"toDate": "2021"
 		}
 	],
 	"skills": [{
-			"name": "HTML5"
+			"name": "Java"
 		},
 		{
-			"name": "CSS3"
+			"name": "Python"
 		},
 		{
 			"name": "Javascript"
@@ -53,29 +38,19 @@
 		},
 		{
 			"name": "Nodejs"
-		},
-		{
-			"name": "Python"
-		},
-		{
-			"name": "Django"
-		},
-		{
-			"name": "Ember"
 		}
 	],
 	"interests": {
-		"paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.",
-		"paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+		"paragraphOne": " I enjoy video games, tennis, and scuba diving."
 	},
-	"awards": [{
-			"awardDetail": "Hack 36 3rd prize winner."
+	"competitions": [{
+			"awardDetail": "2021 P&G Next: Advancing Business through I.T. Participant "
 		},
 		{
-			"awardDetail": "Mentor OpenCode'19"
+			"awardDetail": "2020 BlueHacks - 3rd Place (Team Leader)"
 		},
 		{
-			"awardDetail": "Started North India's First Student Design and Developer Conference."
+			"awardDetail": "2018 Programming Open - 4th Place (Team Leader)"
 		}
 	]
 }
